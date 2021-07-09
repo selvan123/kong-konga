@@ -49,3 +49,4 @@ Hit the activate button. If all is set up correctly, Konga will connect to Kong.
 
 ### Miscellaneous
 Fake API is used from typicode (https://jsonplaceholder.typicode.com/)
+ 
