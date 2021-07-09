@@ -47,5 +47,5 @@ Hit the activate button. If all is set up correctly, Konga will connect to Kong.
 - curl -i -X GET --url http://{hostip}}:8000/api/users
 - curl -i -X GET --url http://{hostip}}:8000/api/todos
 
-
-
+### Miscellaneous
+Fake API is used from typicode (https://jsonplaceholder.typicode.com/)
